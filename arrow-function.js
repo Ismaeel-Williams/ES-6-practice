@@ -11,8 +11,3 @@ const greeting = value => console.log("hello ${value}")
 
 //arrow function with implicit return
 const square = a => a*a;
-
-//template literals
-//template literals also called backtick
-let x = 6;
-let y = 10;
