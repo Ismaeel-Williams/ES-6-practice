@@ -15,7 +15,7 @@
 //     return user;
 // }
 
-console.log(findUser("john"));
+// console.log(findUser("john"));
 
 //2. To simulate the delay, you can use the setTimeout() function.
 //for example:
@@ -37,7 +37,7 @@ console.log(findUser("john"));
 //     return user;
 // }
 
-console.log(findUser("john"));
+// console.log(findUser("john"));
 //output undefined
 
 //3. Using callbacks to deal with an asynchronous operation
