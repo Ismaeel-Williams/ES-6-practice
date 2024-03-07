@@ -1,2 +1,3 @@
 //main.js
-import { add } from "math.js"
+import { subtract } from "math.js"
+import myAddFunction from "./math.js"

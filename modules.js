@@ -20,3 +20,19 @@
 //class you want to import to import and the path to the module file.
 
 //main.js
+
+//4. Named Exports:
+//You can export multiple variables, functions, or classes
+//from a module using named exports
+
+//5. Default Exports:
+//You can export a single variable, function, or class as the default
+//export from a module.
+
+//6. Importing Named Exports: 
+//When importing named exports, you use curly braces {} to specify
+//which variables, functions, or classes you want to import. 
+
+//7. Importing Default Exports:
+//When importing a default export, you use a name you want to assign to the imported value.
+
